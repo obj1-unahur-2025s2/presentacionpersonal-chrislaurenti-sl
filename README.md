@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Chris Laurenti
+- Vivo en Merlo
 
 
 ### Otra Información
