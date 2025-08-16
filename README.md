@@ -4,10 +4,11 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es: Chris Laurenti
+- Mi nombre es: Christian Laurenti
 - Vivo en Merlo
 
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Tengo tres perras que se llaman Alay, Luna y Negrita
+- Juego Futsal en el Club Argentino de Castelar
